@@ -13,10 +13,10 @@ const client = new tmi.Client({
 	},
 	identity: {
 		username: process.env.BOT_USERNAME,
-		password: process.env.CHANNEL_NAME
+		password: process.env.OAUTH_TOKEN
 	},
 	channels: [
-		process.env.OAUTH_TOKEN
+		process.env.CHANNEL_NAME
 	]
 });
 var block = false;
