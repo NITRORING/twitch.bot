@@ -20,7 +20,7 @@ const client = new tmi.Client({
 	]
 });
 var block = false;
-var timeOut = 0;
+var timeOut = 15;
 
 var instLink = 'https://www.instagram.com/_maybee.andreeew_/';
 var tgLink = 'https://t.me/andrewsav1';
