@@ -4,7 +4,6 @@ This bot is written for the channel [twitch.tv/big_pencil8d](https://www.twitch.
 ## Technology Stack 
 - Node.js
 - Express
-- tmi.js
 
 ## Branch Policy 
 For now, the default branch is master.
