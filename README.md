@@ -1,5 +1,5 @@
 # twitcbot
 
-##Technology Stack
--Node.js
--Express
+## Technology Stack
+- Node.js
+- Express
